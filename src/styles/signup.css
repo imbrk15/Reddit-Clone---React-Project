@@ -1,0 +1,62 @@
+.signup{
+    display: flex;
+}
+.art {
+    width: 156px;
+
+}
+.art img {
+    height: 100vh;
+    min-height: 430px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form {
+    margin: 10rem;
+    width: 25%;
+}
+
+.form .title {
+    margin-bottom: 50px;
+}
+.input {
+    margin: 20px;
+}
+
+.input .username, .name, .email {
+    margin-bottom: 20px;
+}
+
+.input .name #name {
+    width: 250px;
+    margin-left: 27px;
+
+}
+.input .email #email {
+    width: 250px;
+    margin-left: 33px;
+}
+.input .username #username {
+    width: 250px;
+   
+}
+.input .password #password {
+    width: 250px;
+
+}
+.btn-login {
+    text-align: center;
+}
+
+.btn-login .btn-in {
+    width: 70%;
+    border-radius: 5px;
+    border: none;
+    background-color: #0079D3;
+    color: white;
+    height: 35px;
+    font-size: 20px;
+}
+.text {
+    margin: 15px;
+}

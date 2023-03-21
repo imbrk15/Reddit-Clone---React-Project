@@ -1,0 +1,70 @@
+.post {
+    width: 60vw;
+    margin-bottom: 20px;
+}
+.addpost {
+    display: flex;
+    justify-content: center;
+}
+
+.upvote {
+    background-color: rgb(62, 9, 91);
+    color: white;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.downvote {
+    background-color: rgb(135, 135, 24);
+    color: black;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+}
+
+.textarea {
+    background-color: rgb(164, 185, 205);
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5px;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.vote {
+    background-color: rgb(164, 185, 205);
+    color: black;
+    margin: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.btn-newpost {
+    background-color: rgb(164, 185, 205);
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-newpost .btn-post {
+    position: relative;
+    right: 25vw;
+}
+.prevpost {
+    background-color: rgb(164, 185, 205);
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5px;
+    height: 80%;
+    border-radius: 10px;
+    width: 55.8vw;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,16 @@
+.main-navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top:0.5%;
+}
+.logo img{
+    height: 45px;
+    width: 100px;
+    margin-left: 20%;
+}
+.searchbar{
+    width: 40%;
+}
+.dropdown{
+    margin-right: 10%;
+}
