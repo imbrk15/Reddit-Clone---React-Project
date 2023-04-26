@@ -1,0 +1,39 @@
+.main {
+    /* border: 2px solid #ff0000; */
+    width: 15vw;
+    height: 100vh;
+    top: 14vh;
+    position: fixed;
+    text-align: center;
+    background-color: rgb(243, 241, 241);
+
+}
+
+.topicsMenu {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.sidebarDown {
+    margin-top: 4vh;
+}
+
+.sidebarDown p {
+    margin: 0;
+    text-align: start;
+    padding-left: 2vw;
+}
+
+.btnSidebar {
+    margin-top: 10px;
+}
+
+.btnSidebar button {
+    width: 13vw;
+    height: 6vh;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(216, 87, 12);
+    border-radius: 15px;
+}
